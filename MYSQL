@@ -1,0 +1,10 @@
+#Using MYSQL workbench
+
+use sys;
+
+create table craiglist(
+id int,
+titles varchar(300),
+price varchar(300));
+
+Select * from craiglist;
