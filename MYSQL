@@ -1,10 +1,10 @@
 #Using MYSQL workbench
 
-use sys;
+use craigslist;
 
-create table craiglist(
+create table books_mags(
 id int,
 titles varchar(300),
 price varchar(300));
 
-Select * from craiglist;
+Select * from books_mags;
