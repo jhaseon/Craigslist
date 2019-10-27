@@ -7,7 +7,7 @@ import pymysql
 import pandas as pd
 import dash_core_components as dcc
 
-
+# Connect to MYSQL
 db_connection_str = 'mysql+pymysql://root:"password"@localhost/craigslist'
 db_connection = create_engine(db_connection_str)
 
