@@ -9,4 +9,6 @@ Hank Yun
 
 ** Difficulty Deploying web application in Heroku. Runs locally.
 
+![](WMPFaOCHe6.gif)
+
 ![Image of Yaktocat](https://github.com/jhaseon/Craigslist/blob/master/flowchart.png)
