@@ -7,7 +7,7 @@ Hank Yun
 1. MYSQL Database
 1. Simple item search web application using Dash and Heroku
 
-** Difficulty Deploying web application in Heroku. Runs locally.
+** Difficulty deploying web application in Heroku but runs locally.
 
 ![](WMPFaOCHe6.gif)
 
